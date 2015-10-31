@@ -1,0 +1,23 @@
+{
+  "name": "hishamabdelhafez.github.io",
+  "homepage": "https://github.com/hishamabdelhafez/hishamabdelhafez.github.io",
+  "authors": [
+    "hishamabdelhafez <hishamabdelhafez@gmail.com>"
+  ],
+  "description": "Hisham personal web site",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "bootstrap-css-only": "~3.3.5"
+  }
+}
